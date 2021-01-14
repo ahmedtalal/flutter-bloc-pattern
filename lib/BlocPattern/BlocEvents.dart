@@ -1,0 +1,3 @@
+enum BlocEvents{
+  increment , decrement 
+}
